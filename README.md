@@ -5,8 +5,9 @@ This is the official implementation of ICONIP 2023: [Dynamic Data Augmentation v
 
 ## Download OriginalData 
 
-[A Multi-site Dataset for Prostate MRI Segmentation](https://liuquande.github.io/SAML/) (Subset 1-6)
-[nnUNet Prostate MRI dataset](https://github.com/MIC-DKFZ/nnUNet/tree/master) (Subset 7)
+- [A Multi-site Dataset for Prostate MRI Segmentation](https://liuquande.github.io/SAML/) (Subset 1-6)
+
+- [nnUNet Prostate MRI dataset](https://github.com/MIC-DKFZ/nnUNet/tree/master) (Subset 7)
 
 ## Format Data 
 
