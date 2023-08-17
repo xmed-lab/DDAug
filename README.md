@@ -3,7 +3,7 @@
 This is the official implementation of ICONIP 2023: [Dynamic Data Augmentation via MCTS for Prostate MRI Segmentation](https://arxiv.org/abs/2305.15777).
 <img src="./img/MCTS.png">
 
-## Download OriginalData 
+## Download Original Data 
 
 - [A Multi-site Dataset for Prostate MRI Segmentation](https://liuquande.github.io/SAML/) (Subset 1-6)
 
@@ -18,6 +18,13 @@ This is the official implementation of ICONIP 2023: [Dynamic Data Augmentation v
 <!-- export paths, nnUNet_raw_data_base, nnUNet_preprocessed, RESULTS_FOLDER-->
 
 <!-- mention folder strucutre, and use nnUNet_plan_and_preprocess -t to do it -->
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
+
 
 ## Training 
 
