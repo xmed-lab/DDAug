@@ -1,1 +1,0 @@
-nnUNet_train 3d_fullres nnUNetTrainer Task001_BrainTumour 1 --npz
