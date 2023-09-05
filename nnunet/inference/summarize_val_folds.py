@@ -4,8 +4,9 @@ import shutil
 import subprocess
 
 
-tmp_input_folder = "/mnt/SSD_RAID/data/MedNAS/summarizer_fold_tmp_input"
-tmp_gt_folder = "/mnt/SSD_RAID/data/MedNAS/summarizer_fold_tmp_gt"
+tmp_input_folder = 'some_temporary_folder_,_content_and_folder_will_be_deleted_once_script_finishes'
+tmp_gt_folder = 'some_temporary_folder_,_content_and_folder_will_be_deleted_once_script_finishes'
+
 raw_data_path = os.environ["nnUNet_raw_data_base"] + "/nnUNet_raw_data"
 processed_data_path = os.environ["nnUNet_preprocessed"]
 result_path = os.environ["RESULTS_FOLDER"] + "/nnUNet/3d_fullres"
